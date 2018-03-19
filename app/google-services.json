@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "17560072662",
+    "firebase_url": "https://loginacitivity-b1784.firebaseio.com",
+    "project_id": "loginacitivity-b1784",
+    "storage_bucket": "loginacitivity-b1784.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17560072662:android:d222f776edfe9376",
+        "android_client_info": {
+          "package_name": "com.cnf271.testapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17560072662-d1f8e8l49p875vk00tp9lncncsh0dib3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiqDul2SjwpOR7-Sg22PFt87PhulwmFCI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
